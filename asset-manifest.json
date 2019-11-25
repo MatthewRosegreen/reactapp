@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/missioncontrol/static/css/main.b100e6da.chunk.css",
+    "main.js": "/missioncontrol/static/js/main.d29f0ad6.chunk.js",
+    "main.js.map": "/missioncontrol/static/js/main.d29f0ad6.chunk.js.map",
+    "runtime-main.js": "/missioncontrol/static/js/runtime-main.b088a3b1.js",
+    "runtime-main.js.map": "/missioncontrol/static/js/runtime-main.b088a3b1.js.map",
+    "static/js/2.4271798a.chunk.js": "/missioncontrol/static/js/2.4271798a.chunk.js",
+    "static/js/2.4271798a.chunk.js.map": "/missioncontrol/static/js/2.4271798a.chunk.js.map",
+    "index.html": "/missioncontrol/index.html",
+    "precache-manifest.5cc0315cb644422979e3fc70bcc1a4c3.js": "/missioncontrol/precache-manifest.5cc0315cb644422979e3fc70bcc1a4c3.js",
+    "service-worker.js": "/missioncontrol/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/missioncontrol/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/missioncontrol/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b088a3b1.js",
+    "static/js/2.4271798a.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.d29f0ad6.chunk.js"
+  ]
+}

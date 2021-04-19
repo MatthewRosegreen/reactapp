@@ -1,26 +1,25 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.f2bdd11e.chunk.css",
-    "main.js": "/portfolio/static/js/main.b32b35f9.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.b32b35f9.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.0e62059e.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.0e62059e.js.map",
-    "static/js/2.7a7c171b.chunk.js": "/portfolio/static/js/2.7a7c171b.chunk.js",
-    "static/js/2.7a7c171b.chunk.js.map": "/portfolio/static/js/2.7a7c171b.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.5e069579.chunk.css",
+    "main.js": "/portfolio/static/js/main.2cd8b185.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.2cd8b185.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.a9f76519.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.a9f76519.js.map",
+    "static/js/2.497bbfe9.chunk.js": "/portfolio/static/js/2.497bbfe9.chunk.js",
+    "static/js/2.497bbfe9.chunk.js.map": "/portfolio/static/js/2.497bbfe9.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.a413727750d513578cd8e7df0afdc04a.js": "/portfolio/precache-manifest.a413727750d513578cd8e7df0afdc04a.js",
-    "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/main.f2bdd11e.chunk.css.map": "/portfolio/static/css/main.f2bdd11e.chunk.css.map",
-    "static/media/aseru.png": "/portfolio/static/media/aseru.943bb613.png",
-    "static/media/ldjam.png": "/portfolio/static/media/ldjam.c8c1ad57.png",
-    "static/media/logo.svg": "/portfolio/static/media/logo.25bf045c.svg",
-    "static/media/pdeception.png": "/portfolio/static/media/pdeception.a1c3782c.png",
-    "static/media/quota.png": "/portfolio/static/media/quota.63fe6dd1.png"
+    "static/css/main.5e069579.chunk.css.map": "/portfolio/static/css/main.5e069579.chunk.css.map",
+    "static/js/2.497bbfe9.chunk.js.LICENSE.txt": "/portfolio/static/js/2.497bbfe9.chunk.js.LICENSE.txt",
+    "static/media/aseru.6974192a.png": "/portfolio/static/media/aseru.6974192a.png",
+    "static/media/ldjam.a1f0f1c1.png": "/portfolio/static/media/ldjam.a1f0f1c1.png",
+    "static/media/logo.927f1d60.svg": "/portfolio/static/media/logo.927f1d60.svg",
+    "static/media/pdeception.92174a14.png": "/portfolio/static/media/pdeception.92174a14.png",
+    "static/media/quota.57be3942.png": "/portfolio/static/media/quota.57be3942.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.0e62059e.js",
-    "static/js/2.7a7c171b.chunk.js",
-    "static/css/main.f2bdd11e.chunk.css",
-    "static/js/main.b32b35f9.chunk.js"
+    "static/js/runtime-main.a9f76519.js",
+    "static/js/2.497bbfe9.chunk.js",
+    "static/css/main.5e069579.chunk.css",
+    "static/js/main.2cd8b185.chunk.js"
   ]
 }
